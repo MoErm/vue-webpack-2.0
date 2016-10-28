@@ -8,7 +8,7 @@
     export default{
         data(){
             return{
-                msg:'hello vue组件22222'
+                msg:'hello vue组件233333'
             }
         }
     }

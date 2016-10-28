@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <h1>{{ msg }}</h1>
-    <router-link to="/frist">fristfrist</router-link>
-    <router-link to="/second">secondsecond</router-link>
+    <router-link to="/frist">fristfrist22222</router-link>
+    <router-link to="/second">secondsecond6666</router-link>
     <router-view class="view"></router-view>
     <firstcomponent></firstcomponent>
   </div>
